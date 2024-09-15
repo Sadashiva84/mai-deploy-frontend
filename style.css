@@ -20,7 +20,6 @@ body {
 
 .menu {
     display: flex;
-    margin-bottom: 40px:
     justify-content: flex-end;
     background-color: #121212;
     padding: 10px 40px;
