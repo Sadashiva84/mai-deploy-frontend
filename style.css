@@ -8,13 +8,13 @@ body {
 
 .logo {
     position: absolute;
-    top: 10px;
+    top: 2px;
     left: 20px;
 }
 
 .logo img {
     width: 120px;
-    height: 120px%;
+    height: 120px;
 }
 
 
