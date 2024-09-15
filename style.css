@@ -20,6 +20,7 @@ body {
 
 .menu {
     display: flex;
+    margin-bottom: 40px:
     justify-content: flex-end;
     background-color: #121212;
     padding: 10px 40px;
@@ -28,7 +29,6 @@ body {
 .menu a {
     color: white;
     margin-left: 20px;
-    margin-bottom: 40px:
     text-decoration: none;
     font-weight: none;
 }
