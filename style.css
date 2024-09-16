@@ -257,3 +257,26 @@ body {
     cursor: pointer;
     border-bottom-right-radius: 10px;
 }
+
+.pricing {
+    background-color: #f8f8f8;
+    padding: 50px;
+    text-align: center;
+}
+
+.pricing h3 {
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.pricing ul {
+    list-style: none;
+    padding: 0;
+}
+
+.pricing ul li {
+    font-family: 'Poppins', sans-serif;
+    color: #555;
+    margin-bottom: 10px;
+}
